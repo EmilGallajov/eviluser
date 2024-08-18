@@ -1,4 +1,4 @@
-# eviluser
+# eviluser_privesc
 This script performs the following steps:
 
     1.Defines the username to check.
